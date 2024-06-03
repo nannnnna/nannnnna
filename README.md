@@ -1,3 +1,3 @@
 Backend developer
 
-Node.js, Python
+Node.js, Python, Solidity
